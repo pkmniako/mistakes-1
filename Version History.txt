@@ -1,0 +1,15 @@
+VERSION HISTORY
+-------------------------------
+17/03/2022
++ Addded Music
++ Last difficulty level jumpscare
++ Scaling broke :skull:
+-------------------------------
+25/05/2020 - 0.1.1
++ Fixed cursor being able to teleport from top to bottom and from left to right
++ Fixed bug where marking every tile will win the match
++ Lowered waiting time after end of match from 5 to 3 seconds
+-------------------------------
+23/05/2020 - 0.1
++ Initial Game Release
+-------------------------------

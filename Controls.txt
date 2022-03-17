@@ -1,0 +1,8 @@
+Controls:
+
+X:
+	Choose Mode
+	Dig Tile
+	Continue after game finishes
+Z:
+	Mark Tile as potential Mine
