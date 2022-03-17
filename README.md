@@ -1,3 +1,7 @@
+# Link de Descarga / Download Link
+
+[Descarga / Download](https://github.com/pkmniako/mistakes-1/releases/download/v1.0.0/Sonic.s.Minesweeper.-.1.0.zip)
+
 # Sonic's Minesweeper (Español)
 
 Una recreación del un [juego perdido de Sonic](https://info.sonicretro.org/Sonic_no_Jirai_Sagashi_Game) para móviles basado en Buscaminas, originalmente publicado en el servicio "[Sonic's Cafe](https://segaretro.org/Sonic_Cafe)"
